@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+
 namespace ContosoUniversityCore.Models
 {
     public class Student
